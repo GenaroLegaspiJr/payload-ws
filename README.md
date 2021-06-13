@@ -1,24 +1,12 @@
-# README
+# Payload WS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Setup
 
-Things you may want to cover:
+To start development:
 
-* Ruby version
+* Clone the project from the repo
+	
+	SSH version: `git clone git@github.com:GenaroLegaspiJr/payload-ws.git`
+	HTTPS version: `git clone https://github.com/GenaroLegaspiJr/payload-ws.git` 
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...

@@ -1,3 +1,5 @@
+#rspec spec/models/guest_spec.rb
+
 require 'rails_helper'
 
 RSpec.describe Guest, type: :model do

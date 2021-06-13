@@ -1,5 +1,5 @@
 class Guest < ApplicationRecord
-	validates_uniqueness_of :email
+	validates :email, presence: true, uniqueness: true
 
 	has_many :reservations
 end
